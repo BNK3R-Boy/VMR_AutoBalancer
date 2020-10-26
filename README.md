@@ -14,7 +14,7 @@ Mic mute/unmute = F13       // You don't have the F13 key or the chance to assig
 
 
 
-## Change incoming communication strip:
+## Change incoming communication strip (will be autobalanced):
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe
