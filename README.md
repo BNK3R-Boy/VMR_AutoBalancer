@@ -2,7 +2,27 @@
  A communication remote control for Voicemeeter
  
  latest release: https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7
- 
+
+## Introduction
+After a year of testing and almost losing all data in a hard drive accident, I am releasing my very first API tool today.
+
+I presend you VMR_AutoBalancer.
+
+
+It brings some feature for gamers and streamers with it, like:
+
+
+Autobalance incoming audio from communication tools like Teamspeak, Discord or any ingame voice.
+
+One setting for all voice commincation tools.
+
+Voice activation, so you need only setup VMR_AutoBalancer and set all other communication tools you are using to voiceactivation at 1%.
+
+3 widgets shows mute / unmute of mic, Voicemeeter out and Voicemeeter aux out.
+
+Jingles that played by the recorder turns down if somebody talk and rise when nobody talk to not disturb the communication.
+
+The gate on strip 1 will rise and fall too to prevent echos.
 
 ## Setup your Voicemeeter to:
 Strip 1 = Mic
