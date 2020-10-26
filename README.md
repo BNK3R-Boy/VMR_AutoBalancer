@@ -21,7 +21,7 @@ Mic mute/unmute = F13
 ## Change incoming communication strip (will be autobalanced):
 
 
-Close VMR_AutoBalancer_[VERSIONNUMBER].exe
+Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
 Open 'VMR.ini'.
 
@@ -39,13 +39,13 @@ example: BalancedStrip=3
 ## Turn off title light show:
 
 
-Close VMR_AutoBalancer_[VERSIONNUMBER].exe
+Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
 Open 'VMR.ini'.
 
 Edit or insert in the [HiddenConfig] section.
 
-'wtf=-1'
+wtf=-1
 
 Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
@@ -58,6 +58,6 @@ Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
 Open 'VMR.ini'.
 
-Delete line 'wtf' from the [HiddenConfig] section.
+Delete line 'wtf=-1' from the [HiddenConfig] section.
 
 Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
