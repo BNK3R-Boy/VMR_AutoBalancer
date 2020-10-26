@@ -2,7 +2,7 @@
  A communication remote control for Voicemeeter
  
 
-### Setup your Voicemeeter to:
+## Setup your Voicemeeter to:
 Strip 1 = Mic
 
 Thats it, everything else in the 'VMR.ini'.
@@ -16,7 +16,7 @@ Mic mute/unmute = F13
 
 
 
-### Change incoming communication strip (will be autobalanced):
+## Change incoming communication strip (will be autobalanced):
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe
@@ -34,7 +34,7 @@ example: BalancedStrip=3
 
 
 
-### Turn off title light show:
+## Turn off title light show:
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe
@@ -49,7 +49,7 @@ Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
 
 
-### Turn on title light show:
+## Turn on title light show:
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
