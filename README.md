@@ -1,6 +1,8 @@
 # VMR_AutoBalancer
  A communication remote control for Voicemeeter
  
+ latest release: https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7
+ 
 
 ## Setup your Voicemeeter to:
 Strip 1 = Mic
