@@ -58,4 +58,4 @@ Open 'VMR.ini'.
 
 Delete line 'wtf' from the [HiddenConfig] section.
 
-Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe
+Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
