@@ -25,7 +25,7 @@ Open 'VMR.ini'.
 
 Edit or insert in the [HiddenConfig] section.
 
-Edit 'BalancedStrip=X' to set the incoming communication strip. X = 0, 1, 2, 3, ..., 8.
+'BalancedStrip=X' to set the incoming communication strip. X = 0, 1, 2, 3, ..., 8.
 
 Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
@@ -43,7 +43,7 @@ Open 'VMR.ini'.
 
 Edit or insert in the [HiddenConfig] section.
 
-wtf=-1
+'wtf=-1'
 
 Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
@@ -56,6 +56,6 @@ Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
 Open 'VMR.ini'.
 
-Delete line wtf from the [HiddenConfig] section.
+Delete line 'wtf' from the [HiddenConfig] section.
 
 Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe
