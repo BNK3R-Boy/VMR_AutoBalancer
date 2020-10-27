@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# VMR_AutoBalancer
+ A communication remote control for Voicemeeter
+ 
+ latest release: https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7
 
-You can use the [editor on GitHub](https://github.com/BNK3R-Boy/VMR_AutoBalancer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
+After a year of testing and almost losing all data in a hard drive accident, I am releasing my very first API tool today.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I presend you VMR_AutoBalancer.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It brings some feature for gamers and streamers with it, like:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Autobalance incoming audio from communication tools like Teamspeak, Discord or any ingame voice.
 
-- Bulleted
-- List
+One setting for all voice commincation tools.
 
-1. Numbered
-2. List
+Voice activation, so you need only setup VMR_AutoBalancer and set all other communication tools you are using to voiceactivation at 1%.
 
-**Bold** and _Italic_ and `Code` text
+3 widgets shows mute / unmute of mic, Voicemeeter out and Voicemeeter aux out.
 
-[Link](url) and ![Image](src)
-```
+Jingles that played by the recorder turns down if somebody talk and rise when nobody talk to not disturb the communication.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The gate on strip 1 will rise and fall too to prevent echos.
 
-### Jekyll Themes
+## Setup your Voicemeeter to:
+Strip 1 = Mic
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BNK3R-Boy/VMR_AutoBalancer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thats it, everything else in the 'VMR.ini'.
 
-### Support or Contact
+how to coming soon...
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Mic mute/unmute = F13
+
+// Note: You don't have the F13 key or the chance to assign a key to F13? Use my F13 tool: https://github.com/BNK3R-Boy/F13
+
+
+
+## Change incoming communication strip (will be autobalanced):
+
+
+Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
+
+Open 'VMR.ini'.
+
+Edit or insert in the [HiddenConfig] section.
+
+'BalancedStrip=X' to set the incoming communication strip. X = 0, 1, 2, 3, ..., 8.
+
+Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
+
+example: BalancedStrip=3
+
+
+
+
+## Turn off title light show:
+
+
+Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
+
+Open 'VMR.ini'.
+
+Edit or insert in the [HiddenConfig] section.
+
+wtf=-1
+
+Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
+
+
+
+## Turn on title light show:
+
+
+Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
+
+Open 'VMR.ini'.
+
+Delete line 'wtf=-1' from the [HiddenConfig] section.
+
+Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
