@@ -9,7 +9,7 @@ It brings some feature for gamers and streamers with it, like:
 
 Autobalance incoming audio from communication tools like Teamspeak, Discord or any ingame voice.
 
-One setting for all voice commincation tools.
+One setting for all voice communication tools.
 
 Voice activation, so you need only setup VMR_AutoBalancer and set all other communication tools you are using to voiceactivation at 1%.
 
