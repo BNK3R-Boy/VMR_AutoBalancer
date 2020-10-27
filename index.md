@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 After a year of testing and almost losing all data in a hard drive accident, I am releasing my very first API tool today.
 
 I presend you VMR_AutoBalancer.
@@ -20,12 +20,10 @@ Jingles that played by the recorder turns down if somebody talk and rise when no
 The gate on strip 1 will rise and fall too to prevent echos.
 
 
-
-> ### latest release: [download](https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7/)
-
+> ## latest release: [download](https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7/)
 
 
-## Setup your Voicemeeter to:
+# Setup your Voicemeeter to:
 Strip 1 = Mic
 
 Thats it, everything else in the 'VMR.ini'.
@@ -39,7 +37,7 @@ Mic mute/unmute = F13
 
 
 
-## Change incoming communication strip (will be autobalanced):
+# Change incoming communication strip (will be autobalanced):
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
@@ -57,7 +55,7 @@ example: BalancedStrip=3
 
 
 
-## Turn off title light show:
+# Turn off title light show:
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
@@ -72,7 +70,7 @@ Save VMR.ini and start VMR_AutoBalancer_[VERSIONNUMBER].exe.
 
 
 
-## Turn on title light show:
+# Turn on title light show:
 
 
 Close VMR_AutoBalancer_[VERSIONNUMBER].exe.
