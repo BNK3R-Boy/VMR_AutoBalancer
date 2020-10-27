@@ -1,4 +1,4 @@
-### latest release: https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7/
+### latest release: [url=https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7/]download[/link]
 
 ## Introduction
 After a year of testing and almost losing all data in a hard drive accident, I am releasing my very first API tool today.
