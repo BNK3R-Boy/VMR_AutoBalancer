@@ -1,5 +1,3 @@
-### latest release: [url=https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7/]download[/link]
-
 ## Introduction
 After a year of testing and almost losing all data in a hard drive accident, I am releasing my very first API tool today.
 
@@ -21,6 +19,12 @@ Jingles that played by the recorder turns down if somebody talk and rise when no
 
 The gate on strip 1 will rise and fall too to prevent echos.
 
+
+
+> ### latest release: [download](https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7/)
+
+
+
 ## Setup your Voicemeeter to:
 Strip 1 = Mic
 
@@ -31,7 +35,7 @@ how to coming soon...
 
 Mic mute/unmute = F13
 
-// Note: You don't have the F13 key or the chance to assign a key to F13? Use my F13 tool: https://github.com/BNK3R-Boy/F13/
+// Note: You don't have the F13 key or the chance to assign a key to F13? Use my F13 tool: [https://github.com/BNK3R-Boy/F13/](https://github.com/BNK3R-Boy/F13/)
 
 
 
