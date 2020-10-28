@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-destination: https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7
-source: https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7
+ignore_theme_config: BOOL
 logo: https://repository-images.githubusercontent.com/307451299/41f13b00-180a-11eb-9ce3-3207387c8c54
 show_downloads: true
