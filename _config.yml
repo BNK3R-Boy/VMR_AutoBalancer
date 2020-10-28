@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
-show_date: true
-branch: master
-baseurl: /VMR_AutoBalancer
+zip_url: https://github.com/BNK3R-Boy/VMR_AutoBalancer/archive/1.4.7.zip
+tar_url: https://github.com/BNK3R-Boy/VMR_AutoBalancer/archive/1.4.7.tar.gz
 logo: https://repository-images.githubusercontent.com/307451299/41f13b00-180a-11eb-9ce3-3207387c8c54
 show_downloads: true
