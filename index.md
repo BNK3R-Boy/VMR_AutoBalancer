@@ -7,7 +7,7 @@ I presend you VMR_AutoBalancer.
 It brings some feature for gamers and streamers with it, like:
 
 
-Autobalance incoming audio from communication tools like Teamspeak, Discord or any ingame voice.
+Autobalance incoming audio from communication tools like Teamspeak, Discord or any voice chat.
 
 One setting for all voice communication tools.
 
