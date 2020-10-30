@@ -22,7 +22,7 @@ Jingles that played by the recorder turns down if somebody talk and rise when no
 The gate on strip 1 will rise and fall too to prevent echos.
 
 
-> ## latest release: [VMR_Autobalancer-1.4.7](https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7)
+## latest release: [VMR_Autobalancer-1.4.7](https://github.com/BNK3R-Boy/VMR_AutoBalancer/releases/tag/1.4.7)
 
 
 # Setup your Voicemeeter to:
