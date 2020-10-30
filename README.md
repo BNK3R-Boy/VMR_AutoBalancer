@@ -6,13 +6,10 @@ After a year of testing and almost losing all data in a hard drive accident, I a
 
 I presend you VMR_AutoBalancer.
 
-[YouTube](https://youtu.be/DEXVh1pqIIM)
+[YouTube Clip](https://youtu.be/DEXVh1pqIIM)
 
-
-
-
-
-
+##
+ 
 It brings some feature for gamers and streamers with it, like:
 
 
