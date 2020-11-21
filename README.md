@@ -6,7 +6,7 @@ After a year of testing and almost losing all data in a hard drive accident, I a
 
 I presend you VMR_AutoBalancer.
 
-[YouTube Clip](https://youtu.be/DEXVh1pqIIM)
+[YouTube Clip (new)](https://youtu.be/svJlmkcsfGA)
 
 ##
  
