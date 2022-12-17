@@ -941,7 +941,7 @@ Check_S2:
 			If (ctrlv="n") {
 				If !volState {
 					volstop_s2()
-			    BlockUp()
+					BlockUp()
 				}
 				If (volState=1) {
 			  	volcontrol_s(vol, gain) ; hit up
